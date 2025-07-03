@@ -1,0 +1,2 @@
+# gestionemagazzino
+GESTIONALE MAGAZZINO PRODOTTI CHIMICI
